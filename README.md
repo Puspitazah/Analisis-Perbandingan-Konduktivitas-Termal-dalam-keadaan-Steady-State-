@@ -1,4 +1,16 @@
 ## Project - 2 
+# Project_Team2_FB_PraktikumFiskom118
+
+* Dosen Pengampu : Dewi Mulyati, M. Si., M. Sc.
+* Kode Seksi Mata Kuliah  : 1306600013
+
+## Kelompok 2 - Fisika B
+
+1. Dhinar Hidayath		    (1306621054)
+2. Khansa Farras Callista	(1306621067)
+3. Puspa Zuhrotul Kamilah (1306621058)    
+4. Salma Mardhiyah		    (1306621061)
+
 #### **Analisis Perbandingan Konduksi Termal Steady State Copper dan Bronze**
 Membandingkan konduktivitas termal dari dua material yaitu Tembaga (Copper) dan Perunggu (Bronze)
 <br />
