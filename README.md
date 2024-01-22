@@ -4,15 +4,8 @@ Membandingkan konduktivitas termal dari dua material yaitu Tembaga (Copper) dan 
 <br />
 <br />
 
-## Gambar Persoalan Project 2
-**Gambar Persoalan Project 2** <br />
-<img width="500" src="Project-2_Team2_FB_AnalisisPerbandinganKonduktivitasTermaldalamkeadaanSteadyStatepadaMaterialKonduktorPanasCopperdanBronzedenganMetodeFiniteDifferenceEquation/Images/Persoalan_Fisika_Projek_Akhir.jpg.jpeg">
->The image displays the physics problem of the projects.
-<br />
+Projek mata kuliah Praktikum Fisika Komputasi ditugaskan untuk membuat coding serta jurnal terkait topik 'heat' dalam bidang fisika, yaitu studi konduktivitas termal yang stabil termistor tembaga dan perunggu menggunakan metode persamaan diferensial parsial.
 
-## Gambar Output Project 2
-**Gambar Output Project 2** <br />
-<img width="500" src="Project-2_Team2_FB_AnalisisPerbandinganKonduktivitasTermaldalamkeadaanSteadyStatepadaMaterialKonduktorPanasCopperdanBronzedenganMetodeFiniteDifferenceEquation/Images/output.png">
->The image displays the output of the projects.
-<br />
+Metode finite difference yang digunakan merupakan teknik numerik untuk menganalisis konduktivitas termal pada konduktor panas. Untuk membandingkan kedua bahan ini maka dilakukan perbandingan dalam bidang 2 dimensi dan 1 dimensi.
 
+Berdasarkan hasil yang diperoleh, dapat disimpulkan bahwa tembaga mencapai kondisi steady state lebih cepat dibandingkan dengan material perunggu. Hal ini disebabkan oleh konduktivitas termal yang lebih tinggi dan kemampuan tembaga untuk mendistribusikan panas dengan lebih efisien. Dengan demikian, distribusi suhu dalam sistem tembaga akan lebih cepat mencapai keseimbangan yang stabil.
